@@ -9,6 +9,7 @@ Included agents:
 - `embedded-systems` - Work on firmware-adjacent and hardware-constrained systems.
 - `fintech-engineer` - Handle ledgers, reconciliation, settlement, and financial state integrity.
 - `game-developer` - Build or debug gameplay systems, loops, and state-heavy game code.
+- `hipaa-compliance` - HIPAA review for healthcare SaaS — BAA scope, PHI, safeguards, breach response.
 - `iot-engineer` - Work on device, telemetry, and edge-cloud coordination.
 - `m365-admin` - Review and guide Microsoft 365 tenant administration.
 - `mobile-app-developer` - Own app-level mobile product flows and release-sensitive behavior.

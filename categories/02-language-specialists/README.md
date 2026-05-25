@@ -12,6 +12,8 @@ Included agents:
 - `dotnet-framework-4.8-expert` - Legacy .NET Framework 4.8 compatibility-sensitive work.
 - `elixir-expert` - Elixir, OTP, Phoenix, and supervised concurrency systems.
 - `erlang-expert` - Erlang/OTP and rebar3 engineering.
+- `expo-react-native-expert` - Expo and React Native mobile work with EAS builds and native module integration.
+- `fastapi-developer` - FastAPI async endpoints, Pydantic v2 contracts, and ASGI deployment behavior.
 - `flutter-expert` - Flutter widgets, state, rendering, and platform integration.
 - `golang-pro` - Go services, concurrency, interfaces, and operational behavior.
 - `java-architect` - Java architecture and enterprise application evolution.
@@ -20,6 +22,7 @@ Included agents:
 - `laravel-specialist` - Laravel routing, Eloquent, queues, and validation flow.
 - `symfony-specialist` - Symfony controllers, services, Doctrine, and security flow.
 - `nextjs-developer` - Next.js routing, rendering modes, and server/client boundaries.
+- `node-specialist` - Node.js services, event-loop behavior, streams, and runtime correctness.
 - `php-pro` - PHP server-side work across frameworks and runtime behavior.
 - `powershell-5.1-expert` - Windows PowerShell 5.1 legacy automation.
 - `powershell-7-expert` - Modern cross-platform PowerShell automation.

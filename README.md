@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-    <strong>The awesome collection of 148+ Codex subagents across 13 categories.</strong>
+    <strong>The awesome collection of 166+ Codex subagents across 13 categories.</strong>
     <br />
     <br />
 </div>
@@ -15,24 +15,12 @@
 <div align="center">
     
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Subagent Count](https://img.shields.io/badge/subagents-148-blue?style=classic)
+![Subagent Count](https://img.shields.io/badge/subagents-166-blue?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-codex-subagents?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-codex-subagents)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
 <br />
 
-
-<div align="center">
-    <strong>More awesome collections for developers</strong>
-    <br />
-    <br />
-</div>
-
-[![Agent Skills](https://img.shields.io/static/v1?label=%E2%9A%A1%20Agent&message=Skills%2012k&color=black&style=classic)](https://github.com/VoltAgent/awesome-agent-skills)
-[![Claude Code Subagents](https://img.shields.io/static/v1?label=Claude&message=Code%20Subagents%2014k&color=D97757&style=classic&logo=claude&logoColor=D97757)](https://github.com/VoltAgent/awesome-claude-code-subagents)
-[![OpenClaw Skills](https://img.shields.io/static/v1?label=%F0%9F%A6%9E%20OpenClaw&message=Skills%2040k&color=f53e36&style=classic)](https://github.com/VoltAgent/awesome-openclaw-skills)
-[![AI Agent Papers](https://img.shields.io/static/v1?label=arxiv&message=Agent%20Papers%20328&color=b31b1b&style=classic&logo=arxiv)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-</div>
 
 
 # Awesome Codex Subagents
@@ -140,6 +128,8 @@ Language-specific experts with deep framework knowledge.
 - [**dotnet-framework-4.8-expert**](categories/02-language-specialists/dotnet-framework-4.8-expert.toml) - .NET Framework legacy enterprise specialist
 - [**elixir-expert**](categories/02-language-specialists/elixir-expert.toml) - Elixir and OTP fault-tolerant systems expert
 - [**erlang-expert**](categories/02-language-specialists/erlang-expert.toml) - Erlang/OTP and rebar3 engineering expert
+- [**expo-react-native-expert**](categories/02-language-specialists/expo-react-native-expert.toml) - Expo and React Native mobile development expert
+- [**fastapi-developer**](categories/02-language-specialists/fastapi-developer.toml) - Modern async Python API framework expert
 - [**flutter-expert**](categories/02-language-specialists/flutter-expert.toml) - Flutter 3+ cross-platform mobile expert
 - [**golang-pro**](categories/02-language-specialists/golang-pro.toml) - Go concurrency specialist
 - [**java-architect**](categories/02-language-specialists/java-architect.toml) - Enterprise Java expert
@@ -148,6 +138,7 @@ Language-specific experts with deep framework knowledge.
 - [**laravel-specialist**](categories/02-language-specialists/laravel-specialist.toml) - Laravel 10+ PHP framework expert
 - [**symfony-specialist**](categories/02-language-specialists/symfony-specialist.toml) - Symfony application and Doctrine specialist
 - [**nextjs-developer**](categories/02-language-specialists/nextjs-developer.toml) - Next.js 14+ full-stack specialist
+- [**node-specialist**](categories/02-language-specialists/node-specialist.toml) - Node.js backend specialist
 - [**php-pro**](categories/02-language-specialists/php-pro.toml) - PHP web development expert
 - [**powershell-5.1-expert**](categories/02-language-specialists/powershell-5.1-expert.toml) - Windows PowerShell 5.1 and full .NET Framework automation specialist
 - [**powershell-7-expert**](categories/02-language-specialists/powershell-7-expert.toml) - Cross-platform PowerShell 7+ automation and modern .NET specialist
@@ -184,12 +175,13 @@ DevOps, cloud, and deployment specialists.
 - [**windows-infra-admin**](categories/03-infrastructure/windows-infra-admin.toml) - Active Directory, DNS, DHCP, and GPO automation specialist
 
 <details>
-<summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (16 agents)</summary>
+<summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (19 agents)</summary>
 
 ### [04. Quality & Security](categories/04-quality-security/)
 
 - [**accessibility-tester**](categories/04-quality-security/accessibility-tester.toml) - A11y compliance expert
 - [**ad-security-reviewer**](categories/04-quality-security/ad-security-reviewer.toml) - Active Directory security and GPO audit specialist
+- [**ai-writing-auditor**](categories/04-quality-security/ai-writing-auditor.toml) - AI writing pattern auditor and rewriter
 - [**architect-reviewer**](categories/04-quality-security/architect-reviewer.toml) - Architecture review specialist
 - [**browser-debugger**](categories/04-quality-security/browser-debugger.toml) - Browser-based reproduction and client-side debugging
 - [**chaos-engineer**](categories/04-quality-security/chaos-engineer.toml) - System resilience testing expert
@@ -197,6 +189,7 @@ DevOps, cloud, and deployment specialists.
 - [**compliance-auditor**](categories/04-quality-security/compliance-auditor.toml) - Regulatory compliance expert
 - [**debugger**](categories/04-quality-security/debugger.toml) - Advanced debugging specialist
 - [**error-detective**](categories/04-quality-security/error-detective.toml) - Error analysis and resolution expert
+- [**gdpr-ccpa-compliance**](categories/04-quality-security/gdpr-ccpa-compliance.toml) - GDPR and CCPA privacy compliance specialist
 - [**penetration-tester**](categories/04-quality-security/penetration-tester.toml) - Ethical hacking specialist
 - [**performance-engineer**](categories/04-quality-security/performance-engineer.toml) - Performance optimization expert
 - [**powershell-security-hardening**](categories/04-quality-security/powershell-security-hardening.toml) - PowerShell security hardening and compliance specialist
@@ -204,11 +197,12 @@ DevOps, cloud, and deployment specialists.
 - [**reviewer**](categories/04-quality-security/reviewer.toml) - PR-style review for correctness, security, and regressions
 - [**security-auditor**](categories/04-quality-security/security-auditor.toml) - Security vulnerability expert
 - [**test-automator**](categories/04-quality-security/test-automator.toml) - Test automation framework expert
+- [**ui-ux-tester**](categories/04-quality-security/ui-ux-tester.toml) - Exhaustive UI/UX functional testing specialist
 
 </details>
 
 <details>
-<summary><b>05. Data & AI</b> — Data engineering, ML, and AI specialists (12 agents)</summary>
+<summary><b>05. Data & AI</b> — Data engineering, ML, and AI specialists (13 agents)</summary>
 
 ### [05. Data & AI](categories/05-data-ai/)
 
@@ -224,11 +218,12 @@ DevOps, cloud, and deployment specialists.
 - [**nlp-engineer**](categories/05-data-ai/nlp-engineer.toml) - Natural language processing expert
 - [**postgres-pro**](categories/05-data-ai/postgres-pro.toml) - PostgreSQL database expert
 - [**prompt-engineer**](categories/05-data-ai/prompt-engineer.toml) - Prompt optimization specialist
+- [**reinforcement-learning-engineer**](categories/05-data-ai/reinforcement-learning-engineer.toml) - Reinforcement learning and decision systems expert
 
 </details>
 
 <details>
-<summary><b>06. Developer Experience</b> — Tooling and developer productivity experts (13 agents)</summary>
+<summary><b>06. Developer Experience</b> — Tooling and developer productivity experts (14 agents)</summary>
 
 ### [06. Developer Experience](categories/06-developer-experience/)
 
@@ -242,6 +237,7 @@ DevOps, cloud, and deployment specialists.
 - [**mcp-developer**](categories/06-developer-experience/mcp-developer.toml) - Model Context Protocol specialist
 - [**powershell-module-architect**](categories/06-developer-experience/powershell-module-architect.toml) - PowerShell module and profile architecture specialist
 - [**powershell-ui-architect**](categories/06-developer-experience/powershell-ui-architect.toml) - PowerShell UI/UX specialist for WinForms, WPF, Metro frameworks, and TUIs
+- [**readme-generator**](categories/06-developer-experience/readme-generator.toml) - Maintainer-ready README generator with zero hallucination
 - [**refactoring-specialist**](categories/06-developer-experience/refactoring-specialist.toml) - Code refactoring expert
 - [**slack-expert**](categories/06-developer-experience/slack-expert.toml) - Slack platform and @slack/bolt specialist
 - [**tooling-engineer**](categories/06-developer-experience/tooling-engineer.toml) - Developer tooling specialist
@@ -249,7 +245,7 @@ DevOps, cloud, and deployment specialists.
 </details>
 
 <details>
-<summary><b>07. Specialized Domains</b> — Domain-specific technology experts (12 agents)</summary>
+<summary><b>07. Specialized Domains</b> — Domain-specific technology experts (13 agents)</summary>
 
 ### [07. Specialized Domains](categories/07-specialized-domains/)
 
@@ -258,6 +254,7 @@ DevOps, cloud, and deployment specialists.
 - [**embedded-systems**](categories/07-specialized-domains/embedded-systems.toml) - Embedded and real-time systems expert
 - [**fintech-engineer**](categories/07-specialized-domains/fintech-engineer.toml) - Financial technology specialist
 - [**game-developer**](categories/07-specialized-domains/game-developer.toml) - Game development expert
+- [**hipaa-compliance**](categories/07-specialized-domains/hipaa-compliance.toml) - HIPAA compliance specialist for healthcare SaaS vendors
 - [**iot-engineer**](categories/07-specialized-domains/iot-engineer.toml) - IoT systems developer
 - [**m365-admin**](categories/07-specialized-domains/m365-admin.toml) - Microsoft 365, Exchange Online, Teams, and SharePoint administration specialist
 - [**mobile-app-developer**](categories/07-specialized-domains/mobile-app-developer.toml) - Mobile application specialist
@@ -269,14 +266,19 @@ DevOps, cloud, and deployment specialists.
 </details>
 
 <details>
-<summary><b>08. Business & Product</b> — Product management and business analysis (11 agents)</summary>
+<summary><b>08. Business & Product</b> — Product management and business analysis (16 agents)</summary>
 
 ### [08. Business & Product](categories/08-business-product/)
 
+- [**assumption-mapping**](categories/08-business-product/assumption-mapping.toml) - Product assumption risk and validation specialist
+- [**backlog-grooming**](categories/08-business-product/backlog-grooming.toml) - Agile backlog refinement specialist
 - [**business-analyst**](categories/08-business-product/business-analyst.toml) - Requirements specialist
 - [**content-marketer**](categories/08-business-product/content-marketer.toml) - Content marketing specialist
+- [**content-quality-editor**](categories/08-business-product/content-quality-editor.toml) - AI content quality and humanization specialist
 - [**customer-success-manager**](categories/08-business-product/customer-success-manager.toml) - Customer success expert
+- [**growth-loops**](categories/08-business-product/growth-loops.toml) - Growth loop and PLG mechanics specialist
 - [**legal-advisor**](categories/08-business-product/legal-advisor.toml) - Legal and compliance specialist
+- [**license-engineer**](categories/08-business-product/license-engineer.toml) - Software licensing and compliance systems specialist
 - [**product-manager**](categories/08-business-product/product-manager.toml) - Product strategy expert
 - [**project-manager**](categories/08-business-product/project-manager.toml) - Project management specialist
 - [**sales-engineer**](categories/08-business-product/sales-engineer.toml) - Technical sales expert
@@ -294,6 +296,7 @@ DevOps, cloud, and deployment specialists.
 
 - [**agent-installer**](categories/09-meta-orchestration/agent-installer.toml) - Browse and install agents from this repository via GitHub
 - [**agent-organizer**](categories/09-meta-orchestration/agent-organizer.toml) - Multi-agent coordinator
+- [**codebase-orchestrator**](categories/09-meta-orchestration/codebase-orchestrator.toml) - Repo-wide refactor governance with approval gates
 - [**context-manager**](categories/09-meta-orchestration/context-manager.toml) - Context optimization expert
 - [**error-coordinator**](categories/09-meta-orchestration/error-coordinator.toml) - Error handling and recovery specialist
 - [**it-ops-orchestrator**](categories/09-meta-orchestration/it-ops-orchestrator.toml) - IT operations workflow orchestration specialist
@@ -307,7 +310,7 @@ DevOps, cloud, and deployment specialists.
 </details>
 
 <details>
-<summary><b>10. Research & Analysis</b> — Research, search, and analysis specialists (7 agents)</summary>
+<summary><b>10. Research & Analysis</b> — Research, search, and analysis specialists (9 agents)</summary>
 
 ### [10. Research & Analysis](categories/10-research-analysis/)
 
@@ -315,7 +318,9 @@ DevOps, cloud, and deployment specialists.
 - [**data-researcher**](categories/10-research-analysis/data-researcher.toml) - Data discovery and analysis expert
 - [**docs-researcher**](categories/10-research-analysis/docs-researcher.toml) - Documentation-backed API and framework verification
 - [**market-researcher**](categories/10-research-analysis/market-researcher.toml) - Market analysis and consumer insights
+- [**project-idea-validator**](categories/10-research-analysis/project-idea-validator.toml) - Brutal idea pressure-tester and go/no-go strategist
 - [**research-analyst**](categories/10-research-analysis/research-analyst.toml) - Comprehensive research specialist
+- [**scientific-literature-researcher**](categories/10-research-analysis/scientific-literature-researcher.toml) - Evidence-grounded research from published scientific studies
 - [**search-specialist**](categories/10-research-analysis/search-specialist.toml) - Advanced information retrieval expert
 - [**trend-analyst**](categories/10-research-analysis/trend-analyst.toml) - Emerging trends and forecasting expert
 

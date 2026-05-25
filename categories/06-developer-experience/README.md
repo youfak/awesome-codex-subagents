@@ -14,6 +14,7 @@ Included agents:
 - `mcp-developer` - MCP server and client integration work.
 - `powershell-module-architect` - Design reusable PowerShell modules and command layout.
 - `powershell-ui-architect` - Build PowerShell-driven admin UI and operator tooling.
+- `readme-generator` - Maintainer-ready README generated from exact repository reality with zero hallucination.
 - `refactoring-specialist` - Plan and execute low-risk structural refactors.
 - `slack-expert` - Build Slack platform and integration behavior.
 - `tooling-engineer` - Create internal tools and workflow automation.
